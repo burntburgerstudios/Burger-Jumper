@@ -4,7 +4,7 @@ A simple, fast 2D platformer made with Unity. You play as a burger, jump across 
 
 Free to play in your browser, with a Windows build available, and open source under the MIT license.
 
-[Play in browser](https://burntburgerstudios.itch.io/burger-jumper) · [Download for Windows](https://github.com/burntburgerstudios/Burger-Jumper/releases/download/0.2.0-Beta/Windows.0.2.0-Beta.rar) · [Website](https://burntburgerstudios.com/) · [Source](https://github.com/burntburgerstudios/Burger-Jumper)
+[Play in browser](https://burntburgerstudios.itch.io/burger-jumper) · [Download for Windows](https://github.com/burntburgerstudios/Burger-Jumper/releases/download/0.2.0/Windows.0.2.0.rar) · [Website](https://burntburgerstudios.com/) · [Source](https://github.com/burntburgerstudios/Burger-Jumper)
 
 ## Controls
 
@@ -19,11 +19,11 @@ Falling below the level respawns you at the start. Reach the crate to move on to
 
 ## Play
 
-The current release is **0.2.0-Beta**.
+The current release is **0.2.0**.
 
 - **Browser:** [burntburgerstudios.itch.io/burger-jumper](https://burntburgerstudios.itch.io/burger-jumper)
-- **Windows:** [Windows.0.2.0-Beta.rar](https://github.com/burntburgerstudios/Burger-Jumper/releases/download/0.2.0-Beta/Windows.0.2.0-Beta.rar), or the [release page](https://github.com/burntburgerstudios/Burger-Jumper/releases/tag/0.2.0-Beta)
-- **Web build:** download `Web.0.2.0-Beta.zip` from the release page and serve the extracted folder over HTTP. Opening `index.html` directly from disk will not work because the build loads Brotli-compressed assets.
+- **Windows:** [Windows.0.2.0.rar](https://github.com/burntburgerstudios/Burger-Jumper/releases/download/0.2.0-Beta/Windows.0.2.0.rar), or the [release page](https://github.com/burntburgerstudios/Burger-Jumper/releases/tag/0.2.0)
+- **Web build:** download `Web.0.2.0.zip` from the release page and serve the extracted folder over HTTP. Opening `index.html` directly from disk will not work because the build loads Brotli-compressed assets.
 
 ## Run the project locally
 
